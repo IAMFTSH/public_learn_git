@@ -7,5 +7,6 @@ package com.company.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("dao分支第一行代码");
+        System.out.println("dao分支第二行代码");
     }
 }
